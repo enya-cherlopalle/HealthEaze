@@ -230,28 +230,7 @@ table td {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  font-family: Arial, sans-serif;
 }
-
-.site-title a {
-  text-decoration: none;
-}
-
-/* Style for "HealthE" (light blue) */
-.site-title .healthe {
-  color: #88C8FF !important; /* Light Blue */
-}
-
-/* Style for "AZ" (dark blue) */
-.site-title .az {
-  color: #03648F !important; /* Dark Blue */
-}
-
-/* Style for last "e" (light blue) */
-.site-title .e {
-  color: #88C8FF !important; /* Light Blue */
-}
-
 .site-title, .site-title:visited {
   color: rgb(66.25, 66.25, 66.25);
 }
