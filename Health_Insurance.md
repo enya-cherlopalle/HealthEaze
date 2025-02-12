@@ -3,6 +3,13 @@ layout: page
 title: Health Insurance Info
 permalink: /Health Insurance Info/
 ---
+YOUR RIGHTS IN ANY INSURANCE PLAN (as of jan 16, 2025)
+Cant not give you insurance or increase your cost if you have a preexisting condition
+Your employer must provide you an option for insurance if they have 50+ employees and you are full time. This means they pay a part of your premium, but you still have to pay a proportion. Typically these are more affordable and people pick these over a marketplace alternative. 
+Preventative care for all adults: [list here](https://www.healthcare.gov/preventive-care-adults/)
+Preventative care for all women (for reproductive health): [list here](https://www.healthcare.gov/preventive-care-women/)
+Preventative care for children: [list here](https://www.healthcare.gov/preventive-care-children/)
+
 
 ### TYPES OF INSURANCE PLANS:
 **HMO**
