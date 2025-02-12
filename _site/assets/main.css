@@ -237,15 +237,19 @@ table td {
   text-decoration: none;
 }
 
-.site-title a span.healthe {
-  color: #88C8FF; /* Light Blue for "HealthE" */
+/* Style for "HealthE" (light blue) */
+.site-title .healthe {
+  color: #88C8FF !important; /* Light Blue */
 }
 
-.site-title a span.az {
-  color: #03648F; /* Dark Blue for "az" */
+/* Style for "AZ" (dark blue) */
+.site-title .az {
+  color: #03648F !important; /* Dark Blue */
 }
-.site-title a span.e {
-  color: #88C8FF; /* Light Blue for "e" */
+
+/* Style for last "e" (light blue) */
+.site-title .e {
+  color: #88C8FF !important; /* Light Blue */
 }
 
 .site-title, .site-title:visited {
