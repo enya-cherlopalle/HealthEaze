@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to HealthEaze"
 date:   2025-02-11 16:07:08 -0800
 categories: jekyll update
 ---
