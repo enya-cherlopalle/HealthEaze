@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HealthEaze
+title: HealthEAZe
 email: enyurr@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Awesome description for health insurance infooooooo ;P
@@ -31,7 +31,8 @@ github_username:  jekyll
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-
+include:
+  - _includes/header.html
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
