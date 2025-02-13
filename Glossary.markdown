@@ -4,7 +4,7 @@ title: Glossary
 permalink: /Glossary/
 ---
 
-[C](#section-c) [D](#section-d) [H](#section-h) [I](#section-i)  [O](#section-o)   [P](#section-p)
+[C](#section-c) [D](#section-d) [H](#section-h) [I](#section-i) [O](#section-o)  [P](#section-p)
 
 ---
 ## <a id="section-c"></a>Section C
